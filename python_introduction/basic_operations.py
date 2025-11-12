@@ -1,5 +1,5 @@
-number1=10
-number2=5
+number1 = 10
+number2 = 5
 add_result=number1+number2
 subtr_result=number1-number2
 mult_result=number1*number2
